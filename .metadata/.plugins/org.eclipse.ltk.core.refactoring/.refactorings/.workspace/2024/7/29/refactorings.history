@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;01-SpringConfig-App&apos; to &apos;01-SpringJavaConfig-App-referenceType&apos;" description="Rename resource &apos;01-SpringConfig-App&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/01-SpringConfig-App" name="01-SpringJavaConfig-App-referenceType" stamp="1721402391348" updateReferences="true"/>
+</session>
